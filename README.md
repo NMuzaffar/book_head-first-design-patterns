@@ -1,1 +1,1 @@
-# book_head-first-design-patterns
+# Head First Design Patterns, 2nd Edition
